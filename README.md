@@ -21,13 +21,13 @@ Follow these steps to set up and run the Django development server on your local
 ### 1. Clone the Repository
 First, clone this repository to your local machine using Git:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/S4bril/Django-Tutorial.git
 ```
 
 ### 2. Navigate to the Project Directory
 Once the repository is cloned, navigate to the project directory:
 ```bash
-cd djangotutorial
+cd Django-Tutorial
 ```
 
 ### 3. Set Up a Virtual Environment
