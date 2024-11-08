@@ -35,7 +35,7 @@ It’s important to create a virtual environment to manage your project dependen
 
 Create a virtual environment:
 ```bash
-python -m venv venv
+py -m venv venv
 ```
 ### 4. Activate the virtual environment:
 
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### 6. Run the Development Server
 Start the Django development server:
 ```bash
-python manage.py runserver
+py manage.py runserver
 ```
 
 ### 7. Adding new requirements
